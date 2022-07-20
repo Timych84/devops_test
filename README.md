@@ -13,3 +13,5 @@ NewLine
           - *.tfvars и *.tfvars.
           - override.tf, override.tf.json, *_override.tf, *_override.tf.json
           - .terraformrc и terraform.rc
+2.  [Системы контроля версий] Домашнее задание.
+    - [x] Добавлена ветка fix
